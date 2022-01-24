@@ -11,3 +11,6 @@ After that, go to the 3D DRAW tab and set the pen color to the color you want th
 (comments/notes are in the respective sprites telling you where)
 
 Also, set starting position with PERSON sprite as needed.
+
+## Wanna play the default?
+Play here: https://flagpatch.github.io/raycaster/
